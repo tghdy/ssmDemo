@@ -7,8 +7,7 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="e5c8a8b1-f7a8-4749-8888-717ef52fc657" name="Default" comment="">
-      <change beforePath="" afterPath="$PROJECT_DIR$/.idea/vcs.xml" />
-      <change beforePath="$PROJECT_DIR$/src/main/webapp/login.jsp" afterPath="$PROJECT_DIR$/src/main/webapp/login.jsp" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
     </list>
     <ignored path="$PROJECT_DIR$/out/" />
     <ignored path="$PROJECT_DIR$/target/" />
@@ -530,7 +529,7 @@
       <workItem from="1532344126994" duration="19000" />
       <workItem from="1532408994184" duration="1282000" />
       <workItem from="1533531497922" duration="2983000" />
-      <workItem from="1533692502368" duration="546000" />
+      <workItem from="1533692502368" duration="828000" />
     </task>
     <servers />
   </component>
@@ -555,7 +554,7 @@
     </history-entry>
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="44609000" />
+    <option name="totallyTimeSpent" value="44891000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="-9" y="-9" width="1938" height="1048" extended-state="6" />
